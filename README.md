@@ -1,3 +1,7 @@
+MeetEase 
+> Built for Pak Angels, HEC-NCEAC and PEC Generative & Agentic AI Training Cohort 11 Mid-Program Hackathon — 48-Hour Challenge
+
+
 MeetEase
 
 An AI-powered meeting notes and transcript management system with automated backend processing and a modern frontend dashboard.
