@@ -1,0 +1,34 @@
+# ============ SECURITY: NEVER commit these ============
+# Environment variables / API keys / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+venv/
+.venv/
+env/
+ENV/
+
+# Database (contains user data)
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime data (user uploads & generated files)
+uploads/
+outputs/
+sample/
+
+# IDE / tools
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Logs
+*.log
